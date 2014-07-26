@@ -34,6 +34,7 @@ This library allow retireve follow morph information for any word:
  | MEM  | 3500      | 800        | 700                       |
  *-----------------------------------------------------------*
 
+1
 Note: 
   All values are words per second speed.
   Test platform: PHP 5.2.3, AMD Duron 800 with 512Mb memory, WinXP
